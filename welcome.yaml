@@ -2,7 +2,7 @@
   embeds:
     - title: Welcome to the MUMUS Safespace server!
       color: 0xdfdfdf
-      description: This server is hosted and moderated by the MUMUS Inclusive Advocacy team! We aim to provide Monash medical students a safe and inclusive community space to connect and support each other. Below you can find more information about us and the server, as well as rules for existing in this server. Please do read through the rules - they are a prerequisite to gaining access to the rest of the server! We hope you enjoy your stay!
+      description: "This server is hosted and moderated by the MUMUS Inclusive Advocacy team! \n\n We aim to provide Monash medical students a safe and inclusive community space to connect and support each other. \n\n Below you can find more information about us and the server, as well as rules for existing in this server. Please do read through the rules - they are a prerequisite to gaining access to the rest of the server! We hope you enjoy your stay!"
       image:
         url: https://raw.githubusercontent.com/charlicharliho/mumusinclusiveadvocacydiscord/main/MIASmallLogo.png
         width: 940
@@ -19,10 +19,10 @@
 - type: rules
   rules:
     Treat everyone with respect.: We are all human. Any and all forms of bigotry, harassment, doxing, exclusionary, or otherwise abusive behavior will not be tolerated. You will be banned from the server if you fail to do so.
-    A space for Monash medical students.: "As mentioned above, this space is for Monash medical students. @mods will be monitoring this page to ensure this remains a safe space for the Monash med community. Please reach out by opening a ticket in #contact-mods if you have any queries or would like to speak to a mod!"
+    A space for Monash medical students.: "As mentioned above, this space is for Monash medical students. @mods will be monitoring this page to ensure this remains a safe space for the Monash med community. \n\n Please reach out by opening a ticket in #contact-mods if you have any queries or would like to speak to a mod!"
     Keep channels on-topic.: Avoid heavily engaging in topics outside their appropriate channels. Please refer to our `Server Guide` above for information about each channel.
     Use content warnings.: Use content warnings and spoiler tags `||[text]||` around potentially triggering content. For example, cw// mental health struggles ||spoilered text||.
-    Understand the type of support you can expect.: Please avoid naming names, especially in more public facing channels. However, if you wish to speak to someone about experiences and would like to mention names, please do so by opening a ticket in #contact-mods or dming a mod. Please also note that support will be provided on a best-effort basis. If someone cannot help you, avoid becoming angry or lashing out. Instead, wait for someone else who may be able to help you. We're all volunteers here, and real life always comes first.
+    Understand expectations regarding support.: "Please avoid naming names, especially in more public facing channels. However, if you wish to speak to someone about experiences and would like to mention names, please do so by opening a ticket in #contact-mods or dming a mod. \n\n Please also note that support will be provided on a best-effort basis. If someone cannot help you, avoid becoming angry or lashing out. Instead, wait for someone else who may be able to help you. We're all volunteers here, and real life always comes first."
     Be mindful of confidentiality.: Do not record or capture any activity from this server, or discuss its content with non-members. Be mindful of the risk of outing other server members.
     Server access.: Thanks for reading our server rules! Please input `otter` in ⁠#verification to gain access to the rest of the server.
 
