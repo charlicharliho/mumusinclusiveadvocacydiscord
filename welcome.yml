@@ -1,0 +1,43 @@
+- type: embed
+  embeds:
+    - title: Welcome to the MUMUS Safespace server!
+      color: 0xdfdfdf
+      description: This server is hosted and moderated by the MUMUS Inclusive Advocacy team! We aim to provide Monash medical students a safe and inclusive community space to connect and support each other. Below you can find more information about us and the server, as well as rules for existing in this server. Please do read through the rules - they are a prerequisite to gaining access to the rest of the server! We hope you enjoy your stay!
+      image:
+        url: https://github.com/charlicharliho/mumusinclusiveadvocacydiscord/new/main/MIASmallLogo.png
+        width: 940
+        height: 788
+
+    - title: Server Guide
+      color: 0xdfdfdf
+      description: "insert text"
+
+    - title: Our Rules
+      color: 0x000000
+      description: This server has been created to provide a space for Monash medical students to build community and to facilitate the development of our advocacy and community engagement projects. In accordance with the goals set, we have established the following set of rules:
+
+- type: rules
+  rules:
+    Treat everyone with respect.: We are all human. Any and all forms of bigotry, harassment, doxing, exclusionary, or otherwise abusive behavior will not be tolerated. You will be banned from the server if you fail to do so.
+    A space for Monash medical students.: "As mentioned above, this space is for Monash medical students. <@1253237556112396388> will be monitoring this page to ensure this remains a safe space for the Monash med community. Please reach out by opening a ticket in <#1253237315388571750> if you have any queries or would like to speak to a mod!"
+    Keep channels on-topic.: Avoid heavily engaging in topics outside their appropriate channels. Please refer to our `Server Guide` above for information about each channel.
+    Use content warnings.: "Use content warnings and spoiler tags `||[text]||` around potentially triggering content. For example, cw// mental health struggles ||spoilered text||."
+    Understand the type of support you can expect.: Please avoid naming names, especially in more public facing channels. However, if you wish to speak to someone about experiences and would like to mention names, please do so by opening a ticket in <#1253237315388571750> or dming a mod. Please also note that support will be provided on a best-effort basis. If someone cannot help you, avoid becoming angry or lashing out. Instead, wait for someone else who may be able to help you. We're all volunteers here, and real life always comes first.
+    Be mindful of confidentiality.: Do not record or capture any activity from this server, or discuss its content with non-members.
+Be mindful of the risk of outing other server members.
+
+- type: embed
+  embeds:
+    - description: "We will respond to rule violations at our own discretion. If you have an issue with another user in this server, please report it to a moderator privately. If you see rule breaking behavior, please mention <@1253237556112396388> in the channel in which the violation occurred.\n\nThese rules were last updated on July 10th, 2024."
+      color: 0x00ffc8
+
+- type: links
+  title: Our Links & Support Resources
+  color: 0x001eff
+  template: "**•** [{TEXT}]({URL})"
+  links:
+    Facebook: https://www.facebook.com/MUMUSInclusiveAdvocacy/
+    Instagram @mumusinclusiveadvocacy: https://www.instagram.com/mumusinclusiveadvocacy/
+    Lifeline - 24/7: https://lifeline.org.au/
+    QLife - 3pm-12am AEST: https://qlife.org.au/
+    13 YARN - 24/7: https://13YARN.org.au/
