@@ -35,29 +35,29 @@
 
     - title: The Basics
       color: 0xdfdfdf
-      description: "### \👋 Welcome \n\n <#1253232297675849789> You are here! This channel contains all the basic info you need for becoming and being a member of the server. \n <#1253233677328977930> All announcements and updates about our projects and community events go here! \n <#1260359480202231949> Get to know your current mod team here! \n <#1253232330131112080> Please introduce yourself in this channel! Protip - read the pinned message for an intro template \n <#1253232351685771345> Get your server roles here! If you have any suggestions or feedback regarding the roles we currently have, we would love to hear them in <#1253297166617940008> or <#1253237315388571750>! \n <#1253293297129095228> Gain access to the rest of the server here."
+      description: "### \:wave\: Welcome \n\n <#1253232297675849789> You are here! This channel contains all the basic info you need for becoming and being a member of the server. \n <#1253233677328977930> All announcements and updates about our projects and community events go here! \n <#1260359480202231949> Get to know your current mod team here! \n <#1253232330131112080> Please introduce yourself in this channel! Protip - read the pinned message for an intro template \n <#1253232351685771345> Get your server roles here! If you have any suggestions or feedback regarding the roles we currently have, we would love to hear them in <#1253297166617940008> or <#1253237315388571750>! \n <#1253293297129095228> Gain access to the rest of the server here."
 
       
     - title: General Chats
       color: 0xdfdfdf
-      description: "### \💬 Chat \n\n <#1253235243855380511> All general banter goes here! \n <#1253254885839867904> Ask for any advice here, med or non-med related! \n <#1253222749942583401> If you prefer chatting with voice, this voice channel is for you! \n <#1253255012218306611> Whether you're studying for exams or APExs, accountability is always available by joining this vc; as a general rule, please refrain from chitchatting too much and distracting others here!"
+      description: "### \:speech_balloon\: Chat \n\n <#1253235243855380511> All general banter goes here! \n <#1253254885839867904> Ask for any advice here, med or non-med related! \n <#1253222749942583401> If you prefer chatting with voice, this voice channel is for you! \n <#1253255012218306611> Whether you're studying for exams or APExs, accountability is always available by joining this vc; as a general rule, please refrain from chitchatting too much and distracting others here!"
 
 
     - title: Academic, Clinical and Community Support
       color: 0xdfdfdf
-      description: "### \🙌 Support \n\n <#1253235816969273344> Any issues pertaining to curriculum goes here! Please refer to the pinned post for more info on creating posts. \n <#1253255999545016330> All issues pertaining to placements go here! Again please refer to the pinned post for more info and guidelines. \n <#1253297166617940008> If you have any issues with the server or any suggestions and feedback for how we can improve this space, please let us know here! \n <#1253237315388571750> Click the `Create ticket` button to talk to the mod team privately!"
+      description: "### \:raised_hands\: Support \n\n <#1253235816969273344> Any issues pertaining to curriculum goes here! Please refer to the pinned post for more info on creating posts. \n <#1253255999545016330> All issues pertaining to placements go here! Again please refer to the pinned post for more info and guidelines. \n <#1253297166617940008> If you have any issues with the server or any suggestions and feedback for how we can improve this space, please let us know here! \n <#1253237315388571750> Click the `Create ticket` button to talk to the mod team privately!"
 
     - title: Autonomous Groups
       color: 0xdfdfdf
-      description: "### \🍵 Community Chats \n\n \:warning: *All of these channels are exclusively reserved for people who identify as being part of the specific community. Please do NOT join any channels to which you do not belong to.* \n Available community channels can be joined via selecting relevant roles in <#1253232351685771345>. Please also let us know if you would like any other autonomous group channels created!"
+      description: "### \:tea\: Community Chats \n\n \:warning\: *All of these channels are exclusively reserved for people who identify as being part of the specific community. Please do NOT join any channels to which you do not belong to.* \n Available community channels can be joined via selecting relevant roles in <#1253232351685771345>. Please also let us know if you would like any other autonomous group channels created!"
       
     - title: Hobbies and Interests
       color: 0xdfdfdf
-      description: "### \✨ Fun \n\n <#1253237084890730537> For showcasing all your creations! \n <#1253236576557727826>: Discuss the latest or classic movies and TV series! \n <#1253236314325651517> For all the gamers out there, whether you be into AAA or indie games! \n <#1253236378918195290> Bookworms unite! Any and all paper-based media, including graphic novels and manga! \n <#1253236329878261780> Share your recent music finds and playlists!"
+      description: "### \:sparkles\: Fun \n\n <#1253237084890730537> For showcasing all your creations! \n <#1253236576557727826>: Discuss the latest or classic movies and TV series! \n <#1253236314325651517> For all the gamers out there, whether you be into AAA or indie games! \n <#1253236378918195290> Bookworms unite! Any and all paper-based media, including graphic novels and manga! \n <#1253236329878261780> Share your recent music finds and playlists!"
 
     - title: Misc
       color: 0xdfdfdf
-      description: "### \🔕 Mute me! \n\n Protip: if on laptop, right click and select `Mute Category` > `Until I turn it back on`; if on phone/tablet, long press on category and select `Mute Category` > `Until I turn it back on` \n <#1253222749942583400> Pretty self-explanatory. \n <#1253301416559120456> Please use commands for bots here to not spam other text channels!"
+      description: "### \:no_bell\: Mute me! \n\n Protip - if on laptop, right click and select `Mute Category` > `Until I turn it back on`; if on phone/tablet, long press on category and select `Mute Category` > `Until I turn it back on` \n <#1253222749942583400> Pretty self-explanatory. \n <#1253301416559120456> Please use commands for bots here to not spam other text channels!"
 
 - type: links
   title: Our Links & Support Resources
