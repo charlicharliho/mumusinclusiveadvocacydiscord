@@ -70,7 +70,7 @@
     QLife - 3pm-12am AEST: https://qlife.org.au/
     13 YARN - 24/7: https://13YARN.org.au/
 
-- type: embeds
+- type: embed
   embeds:
     - title: Please scroll to the top!
       color: 0xdfdfdf
