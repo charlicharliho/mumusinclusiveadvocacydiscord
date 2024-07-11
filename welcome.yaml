@@ -49,7 +49,7 @@
 
     - title: Autonomous Groups
       color: 0xdfdfdf
-      description: "### <:tea:> Community Chats \n\n <:warning:> *All of these channels are exclusively reserved for people who identify as being part of the specific community. Please do NOT join any channels to which you do not belong to.* \n Available community channels can be joined via selecting relevant roles in <#1253232351685771345>. Please also let us know if you would like any other autonomous group channels created!"
+      description: "### <:tea:> Community Chats \n\n :warning: *All of these channels are exclusively reserved for people who identify as being part of the specific community. Please do NOT join any channels to which you do not belong to.* \n Available community channels can be joined via selecting relevant roles in <#1253232351685771345>. Please also let us know if you would like any other autonomous group channels created!"
       
     - title: Hobbies and Interests
       color: 0xdfdfdf
